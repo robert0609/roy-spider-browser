@@ -1,4 +1,4 @@
-# @xes/dh-module-spider
+# roy-spider-browser
 
 > hack页面埋点常用的浏览器行为，方便基于此封装埋点模块
 
@@ -18,5 +18,5 @@ npm run build
 ## Install
 
 ```javascript
-npm install --save @xes/dh-module-spider
+npm install --save roy-spider-browser
 ```

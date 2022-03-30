@@ -1,5 +1,5 @@
 {
-  "name": "@xes/dh-module-spider",
+  "name": "roy-spider-browser",
   "version": "0.4.1",
   "description": "hack页面埋点常用的浏览器行为，方便基于此封装埋点模块",
   "main": "dist/spider.min.js",
